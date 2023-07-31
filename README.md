@@ -1,5 +1,5 @@
-# # <span style="font-size:52px;">Hesap Makinesi</span> <br>
-# <span style="font-size:24px;">Java ve XML kullanılmıştır. Hesaplamayı işlem önceliğine göre yapar.</span>
+# <span style="font-size:24px;">Hesap Makinesi</span> <br> <br>
+# <p style="font-size:24px;">Java ve XML kullanılmıştır. Hesaplamayı işlem önceliğine göre yapar.</p>
 
 <br>
 
