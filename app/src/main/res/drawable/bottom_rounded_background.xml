@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Kenar yuvarlatma için -->
+    <corners
+        android:topLeftRadius="0dp"
+        android:topRightRadius="0dp"
+        android:bottomLeftRadius="32dp"
+        android:bottomRightRadius="32dp" />
+
+    <!-- Renkler -->
+    <solid android:color="#FFFFFF" />
+
+</shape>
